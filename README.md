@@ -2,7 +2,7 @@
 
 This is the tutorial for Algorithms class in 1st semester, 2022 (Undergraduate class, Soongsil University)
 
-This page gives the python codes for the basic algorithms.
+We provide the python codes for the basic algorithms.
 
 The code was based on the textbook.
 
