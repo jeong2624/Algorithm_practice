@@ -1,13 +1,13 @@
-# Algorithms_Class
+### Description
+* 해당 사이트는 2022년 1학기에 (대학원 2학기 포함) 학부 수업 "알고리즘"을 청강했을 때 공부한 내용을 다루고 있습니다.
+* 주 교재는 박지연 저서의 "알고리즘의 이해"이며, 해당 교재에서 제공하는 pseudocode를 기반으로 파이썬 코드로 표현했습니다.
+  ![image](https://user-images.githubusercontent.com/69787143/173269307-e02ebd38-eaef-422e-bb58-8b33347f3b0b.png)
 
-This is the tutorial for Algorithms class in 1st semester, 2022 (Undergraduate class, Soongsil University)
+### 내용
+1. 재귀적 알고리즘
+2. 이진 탐색
+3. 버블 정렬 / 합병 정렬 / 퀵 정렬
+4. 다익스트라 / 플로이드 알고리즘
+5. 동적 프로그래밍
 
-We provide the python codes for the basic algorithms.
 
-The code was based on the textbook.
-
-## The textbok infromation is below.
-
-박지연, Introduction to Algorithm (알고리즘의 이해), 기한재, 2007
-
-![image](https://user-images.githubusercontent.com/69787143/173269307-e02ebd38-eaef-422e-bb58-8b33347f3b0b.png)
